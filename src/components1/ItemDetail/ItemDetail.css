@@ -12,3 +12,7 @@
     height: 30%;
     object-fit: cover;
 }
+
+.detalle-container-fluid container-xxl{
+    background-color:blue;
+}
